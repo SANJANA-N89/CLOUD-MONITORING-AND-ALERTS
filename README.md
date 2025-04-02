@@ -18,5 +18,3 @@ OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/84d6792c-2d3f-4d91-8aef-6cc81fe9f5a6)
 
-![Image](https://github.com/user-attachments/assets/84d6792c-2d3f-4d91-8aef-6cc81fe9f5a6)
-
